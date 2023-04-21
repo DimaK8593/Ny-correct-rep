@@ -5,3 +5,6 @@ li{
     color:blue;
     background-color:yellow
 }
+li strong {
+    color:purple;
+}
