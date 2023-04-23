@@ -12,4 +12,10 @@ li{
 li strong {
     color:purple;
 }
+.outro {
+    text-transform:uppercase;
+}
+.creato {
+    text-transform:capitalize;
+}
 
