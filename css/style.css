@@ -4,11 +4,11 @@ li{
 .intro {
     color:blue;
     background-color:yellow;
-    font-size:32px
+    font-size:32px;
+    font-family: Arial;
+    font-style:italic;
 }
 li strong {
     color:purple;
 }
-.intro {
-    font-family:Arial;
-}
+
