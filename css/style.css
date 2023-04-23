@@ -26,4 +26,11 @@ h2 {
     text-shadow: 1px 5px 4px rgb(199, 30, 199);
     text-align:center;
 }
-
+.deleted{
+    padding: 5px 5px 5px 5px;
+    border: 3px solid black;
+    line-height: 10.0px;
+}
+.box {
+    border:3px solid red;
+}
