@@ -3,7 +3,8 @@ li{
 }
 .intro {
     color:blue;
-    background-color:yellow
+    background-color:yellow;
+    font-size:32px
 }
 li strong {
     color:purple;
