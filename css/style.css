@@ -14,8 +14,16 @@ li strong {
 }
 .outro {
     text-transform:uppercase;
+    text-decoration:underline;
+    letter-spacing: 5px;
 }
 .creato {
     text-transform:capitalize;
+    text-decoration:line-through;
+    word-spacing:10px;
+}
+h2 {
+    text-shadow: 1px 5px 4px rgb(199, 30, 199);
+    text-align:center;
 }
 
