@@ -28,12 +28,14 @@ h2 {
 }
 .deleted{
     padding: 5px 5px 5px 5px;
-    border: 3px dotted black;
+    border-bottom: 3px dotted black;
     line-height: 10.0px;
 }
 .box {
     border:3px dashed red;
     width:30%;
     height:65px;
+    border-radius:15px;
+    background-image: url('https://img.freepik.com/premium-photo/soccer-field-stadium-grass-close-up-view_488220-9324.jpg');
 }
 
