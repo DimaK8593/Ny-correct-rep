@@ -28,11 +28,11 @@ h2 {
 }
 .deleted{
     padding: 5px 5px 5px 5px;
-    border: 3px solid black;
+    border: 3px dotted black;
     line-height: 10.0px;
 }
 .box {
-    border:3px solid red;
+    border:3px dashed red;
     width:30%;
     height:65px;
 }
