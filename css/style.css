@@ -38,4 +38,14 @@ h2 {
     border-radius:15px;
     background-image: url('https://img.freepik.com/premium-photo/soccer-field-stadium-grass-close-up-view_488220-9324.jpg');
 }
-
+ul{
+    list-style-type:square;
+}
+a {
+    text-decoration:none;
+}
+a:hover {
+    background-color:red;
+    border:2px solid green;
+    text-decoration:underline;
+}
