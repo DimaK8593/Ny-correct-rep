@@ -49,3 +49,40 @@ a:hover {
     border:2px solid green;
     text-decoration:underline;
 }
+body {
+    margin: 0;
+}
+ul2 {
+    padding: 0;
+    margin-top:10px;
+    width: 100%;
+  }
+li2 {
+    display: inline;
+  }
+a2 {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 1%;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    width:31%;
+    color: white;
+    background-color: green;
+  }
+  a2:hover {
+    background: blue;
+  }
+ table {
+    width:30%;
+ }
+ th,td {
+    padding:10px;
+    text-align:center;
+ }
+ tr:nth-child(2) {
+    background-color: #70bceb;
+}
+  
