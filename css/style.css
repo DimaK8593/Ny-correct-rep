@@ -105,3 +105,13 @@ div.empty-div {
     transform: rotate(15deg);
     transform-origin: 25% 75%;
  }
+ div {
+    width: 50px;
+    height: 10px;
+    background: #32CD32;
+    transition: height 3s;
+    transition-timing-function:ease-in;
+}
+div:hover {
+    height: 250px;
+}
